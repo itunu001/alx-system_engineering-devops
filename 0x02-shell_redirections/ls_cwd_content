@@ -1,0 +1,16 @@
+total 52
+drwxr-xr-x 2 smartmike smartmike 4096 Feb 14 02:52 .
+drwxr-xr-x 6 smartmike smartmike 4096 Feb 14 02:12 ..
+-rwxr--r-- 1 smartmike smartmike   32 Feb 14 02:13 0-hello_world
+-rwxr--r-- 1 smartmike smartmike   28 Feb 14 02:16 1-confused_smiley
+-rwxr--r-- 1 smartmike smartmike   28 Feb 14 02:18 2-hellofile
+-rwxr--r-- 1 smartmike smartmike   39 Feb 14 02:21 3-twofiles
+-rwxr--r-- 1 smartmike smartmike   29 Feb 14 02:27 4-lastlines
+-rwxr--r-- 1 smartmike smartmike   29 Feb 14 02:27 5-firstlines
+-rwxr--r-- 1 smartmike smartmike   36 Feb 14 02:36 6-third_line
+-rwxr--r-- 1 smartmike smartmike   85 Feb 14 02:48 7-file
+-rwxr--r-- 1 smartmike smartmike   36 Feb 14 02:51 8-cwd_state
+-rw-r--r-- 1 smartmike smartmike   24 Feb 14 02:12 README.md
+-rw-r--r-- 1 smartmike smartmike    0 Feb 14 02:49 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 smartmike smartmike  801 Feb 14 02:30 iacta
+-rw-r--r-- 1 smartmike smartmike    0 Feb 14 02:52 ls_cwd_content
